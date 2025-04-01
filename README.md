@@ -1,22 +1,16 @@
-# Welcome to your Lovable project
+# Welcome to My Portfolio
 
-## Project info
+I'm **Maheshwaran** and i Passionate Mobile & Web App Developer with expertise in Flutter, Firebase, and Java. Eager to contribute my technical skills and innovation to a dynamic team while continuously learning and growing in software development. Committed to delivering impactful solutions that drive both personal and organizational success.
 
-**URL**: https://lovable.dev/projects/7e56a045-6bc1-40c3-9229-11dfff68bc45
+If You Want This Portfolio or Make like this Contact me : +91 78719 39594
 
 ## How can I edit this code?
 
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/7e56a045-6bc1-40c3-9229-11dfff68bc45) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
+There are several ways of editing This application.
 
 **Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+If you want to work locally using your own IDE, you can clone this repo and push changes.
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
@@ -62,8 +56,11 @@ This project is built with .
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/7e56a045-6bc1-40c3-9229-11dfff68bc45) and click on Share -> Publish.
+Way Of Deploy : Using Google Drive, One Drive, Versel, Web hosting etc.,
+
+For More Information Contact
+Contact : +91 787193594
 
 ## I want to use a custom domain - is that possible?
 
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+We don't support custom domains (yet). If you want to deploy your project under your own domain then we here to help and Teach You. 
