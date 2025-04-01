@@ -23,7 +23,7 @@ const Hero = () => {
             
             <div className="flex flex-wrap gap-4 mb-12">
               <Button className="btn-primary animate-fadeInUp animate-delay-400" asChild>
-                <a href="assets\Maheshwaran_M_Resume.pdf" target="_blank" rel="noopener noreferrer">
+                <a href="https://drive.google.com/file/d/16suvVz_uJ8MgvOQYzM_mrK6SBE0nOoDc/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
                   Download Resume
                 </a>
               </Button>
