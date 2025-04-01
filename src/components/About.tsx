@@ -49,7 +49,7 @@ const About = () => {
             <CardContent className="p-6 text-center">
               <h3 className="text-xl font-bold mb-4">Download Resume</h3>
               <a 
-                href="https://drive.google.com/file/d/16suvVz_uJ8MgvOQYzM_mrK6SBE0nOoDc/view?usp=drive_link" 
+                href="assets\Maheshwaran_M_Resume.pdf" 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block px-6 py-3 bg-indigo-600 hover:bg-indigo-700 text-white rounded-md font-medium transition duration-300"
