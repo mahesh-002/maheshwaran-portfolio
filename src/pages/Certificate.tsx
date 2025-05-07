@@ -26,7 +26,8 @@ const Certificate = () => {
       description: "Professional certification covering Angular framework concepts, components, services, and modern web development practices.",
       skills: ["Angular", "TypeScript", "Web Development", "Frontend"],
       credentialUrl: "https://drive.google.com/file/d/1GoRARzQkVb5O2ov8PA4yPcI1AMR6B-we/view?usp=drivesdk"
-    }
+    },
+    
   ];
 
   return (
